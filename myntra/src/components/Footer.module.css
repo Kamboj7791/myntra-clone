@@ -1,0 +1,59 @@
+.link {
+  text-decoration: none;
+  color: #282c3f;
+  background-color: transparent;
+  font-size: 12px;
+  font-weight: 700;
+}
+.para {
+  font-weight: 700;
+  color: #282c3f;
+  font-size: 12px;
+}
+.para1 {
+  font-size: 12px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  margin-top: 20px;
+}
+.linkchild {
+  background-color: transparent;
+  color: #696b79;
+  display: block;
+  font-size: 15px;
+  text-decoration: none;
+  margin: 9px;
+  cursor: pointer;
+  line-height: normal;
+}
+.ag {
+  margin-right: 10px;
+  height: 42px;
+}
+.iconparent {
+  display: flex;
+}
+.icon {
+  margin-right: 8px;
+}
+.fourth {
+  display: flex;
+}
+.fourthimg {
+  width: 48px;
+  height: 40px;
+}
+.strong {
+  color: black;
+}
+.outer {
+  max-width: 1080px;
+  margin: auto;
+  min-width: 980px;
+}
+.outerparent {
+  position: relative;
+  z-index: 5;
+  padding: 30px 0px 40px 0px;
+  background: #fafbfc;
+}

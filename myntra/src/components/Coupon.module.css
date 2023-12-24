@@ -1,0 +1,9 @@
+.covercoupon {
+  display: flex;
+}
+.leftcoupon {
+  width: 100%;
+}
+.rightcoupon {
+  width: 100%;
+}

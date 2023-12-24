@@ -1,0 +1,10 @@
+.img {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.sliderContainer {
+  box-sizing: border-box;
+  width: 100%;
+  max-height: 500px;
+}
